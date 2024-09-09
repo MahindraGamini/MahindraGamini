@@ -7,6 +7,7 @@ Welcome to my GitHub profile! I'm a passionate and dedicated software developer,
 - Full-Stack Development
 - MERN Stack (MongoDB, Express, React, Node.js)
 - Web Development
+- BlockChain
 - Data Structures and Algorithms
 - Open Source Contribution
 
@@ -28,7 +29,7 @@ Welcome to my GitHub profile! I'm a passionate and dedicated software developer,
 
 ## 📫 How to Reach Me
 
-- **Email:** [saigamini@example.com](mailto:saimahindra06@egmail.com)
+- **Email:**(mailto:saimahindra06@egmail.com)
 - **LinkedIn:** [Sai Mahindra](https://www.linkedin.com/in/mahindra-gamini-73b8b9219/)
 
 Feel free to reach out for collaboration, mentorship, or just to connect!
